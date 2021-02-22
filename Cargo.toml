@@ -1,12 +1,12 @@
 [package]
-name = "parity-daemonize"
+name = "tetsy-daemonize"
 version = "0.3.0"
 authors = ["Parity Technologies <admin@parity.io>"]
-repository = "https://github.com/paritytech/parity-daemonize"
-documentation = "https://docs.rs/parity-daemonize"
+repository = "https://github.com/tetcoin/tetsy-daemonize"
+documentation = "https://docs.rs/tetsy-daemonize"
 readme = "README.md"
 description = "A more advanced daemonizer"
-keywords = ["daemon", "daemonize", "unix"]
+keywords = ["daemon", "daemonize", "unix", "tetcoin"]
 categories = ["os::unix-apis"]
 license = "GPL-3.0"
 edition = "2018"
