@@ -1,4 +1,4 @@
-# Daemonize-rs ![Crates.io](https://img.shields.io/crates/d/daemonize-rs.svg) [![Released API docs](https://docs.rs/daemonize-rs/badge.svg)](https://docs.rs/daemonize-rs) [![Build Status][travis-image]][travis-url] [![Build Status][appveyor-image]][appveyor-url]
+# Tetsy Daemonize ![Crates.io](https://img.shields.io/crates/d/daemonize-rs.svg) [![Released API docs](https://docs.rs/daemonize-rs/badge.svg)](https://docs.rs/daemonize-rs) [![Build Status][travis-image]][travis-url] [![Build Status][appveyor-image]][appveyor-url]
 
 [travis-image]: https://travis-ci.org/tetcoin/tetsy-daemonize.svg?branch=master
 [travis-url]: https://travis-ci.org/tetcoin/tetsy-daemonize
